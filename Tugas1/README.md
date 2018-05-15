@@ -6,7 +6,7 @@
 </h2>
 
 ### Description
-This program scrape data scraper for [foxsports] (https://www.foxsports.com/soccer/stats).
+This program scrape data scraper for [foxsports](https://www.foxsports.com/soccer/stats).
 It gathered top player's statistic with their current team, position, and many more. 
 
 ### Specifications

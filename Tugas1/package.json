@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Scraping data from foxsports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node src/index.js"
+  },
+  "keywords": [
+    "scraping"
+  ],
+  "author": "Manasye Bukit",
+  "license": "ISC"
+}
