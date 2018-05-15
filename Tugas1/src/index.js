@@ -81,7 +81,10 @@ rp(homepage)
                     // Limit the data
                     if (count == 150) {
                         console.log(playerData);
-                        fs.writeFileSync('../data/player.json', JSON.stringify(playerData));
+                        // Save player data to JSON file
+                        var writeStream = fs.createWriteStream('data/player.json');
+                        fs.writeFileSync('data/player.json', JSON.stringify(playerData));
+                        writeStream.end();
                         console.log('Data have been saved to player.json');
                         process.exit(-1);
                     }

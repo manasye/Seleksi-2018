@@ -20,7 +20,11 @@ It gathered top player's statistic with their current team, position, and many m
 4. This data will be used for analysis and data visualization.
 
 ### How to Use
-1. 
+To run the program :
+```
+npm run scrape
+
+```
 
 ### JSON Structure
 ```
@@ -57,4 +61,17 @@ It gathered top player's statistic with their current team, position, and many m
 ```
 
 ### Program's screenshot
+![1](screenshots/2.png)
+![2](screenshots/1.png)
+![3](screenshots/3.png)
+![4](screenshots/4.png)
 
+### Reference
+![Web Scraping with node js](https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7)
+![request promise](https://www.npmjs.com/package/request-promise)
+![cheerio](https://www.npmjs.com/package/cheerio)
+
+### Author
+##### Name : Manasye Shousen Bukit
+##### NIM : 13516122
+##### Website : [manasyebukit.me](manasyebukit.me)

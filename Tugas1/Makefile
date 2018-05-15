@@ -5,4 +5,4 @@ all: clean run
 clean: del ./data/player.json
 
 # run the program
-run: npm run scrape
+run: node src/index.js
