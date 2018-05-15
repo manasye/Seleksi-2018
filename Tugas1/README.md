@@ -23,7 +23,6 @@ It gathered top player's statistic with their current team, position, and many m
 To run the program :
 ```
 npm run scrape
-
 ```
 
 ### JSON Structure
@@ -61,10 +60,10 @@ npm run scrape
 ```
 
 ### Program's screenshot
-![1](screenshots/2.png)
-![2](screenshots/1.png)
-![3](screenshots/3.png)
-![4](screenshots/4.png)
+![1](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/2.png)
+![2](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/1.png)
+![3](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/3.png)
+![4](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/4.png)
 
 ### Reference
 ![Web Scraping with node js](https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7)
