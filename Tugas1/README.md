@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  Data Scraping
+  Soccer Scrapper
   <br>
   <br>
 </h2>
@@ -60,15 +60,15 @@ npm run scrape
 ```
 
 ### Program's screenshot
-![1](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/2.png)
-![2](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/1.png)
-![3](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/3.png)
-![4](https://github.com/manasye/Seleksi-2018/tree/master/Tugas1/screenshots/4.png)
+![1](https://github.com/manasye/Seleksi-2018/blob/master/Tugas1/screenshots/2.PNG)
+![2](https://github.com/manasye/Seleksi-2018/blob/master/Tugas1/screenshots/1.PNG)
+![3](https://github.com/manasye/Seleksi-2018/blob/master/Tugas1/screenshots/3.PNG)
+![4](https://github.com/manasye/Seleksi-2018/blob/master/Tugas1/screenshots/4.PNG)
 
 ### Reference
-![Web Scraping with node js](https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7)
-![request promise](https://www.npmjs.com/package/request-promise)
-![cheerio](https://www.npmjs.com/package/cheerio)
+[Web Scraping with node js](https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7)<br>
+[request promise](https://www.npmjs.com/package/request-promise)
+[cheerio](https://www.npmjs.com/package/cheerio)
 
 ### Author
 ##### Name : Manasye Shousen Bukit
