@@ -67,10 +67,10 @@ npm run scrape
 
 ### Reference
 [Web Scraping with node js](https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7)<br>
-[request promise](https://www.npmjs.com/package/request-promise)
-[cheerio](https://www.npmjs.com/package/cheerio)
+[request promise](https://www.npmjs.com/package/request-promise)<br>
+[cheerio](https://www.npmjs.com/package/cheerio)<br>
 
 ### Author
 ##### Name : Manasye Shousen Bukit
 ##### NIM : 13516122
-##### Website : [manasyebukit.me](manasyebukit.me)
+##### Website : [manasyebukit.me](http://www.manasyebukit.me/)
